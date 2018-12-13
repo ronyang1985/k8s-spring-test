@@ -1,1 +1,3 @@
-name: zhangsan 
+person:
+  name: zhangsan
+  age: 18
